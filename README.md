@@ -1,2 +1,2 @@
 # Writeups
-HV Writeups-HackMyVM
+Writeups-HackMyVM
