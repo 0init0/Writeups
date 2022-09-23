@@ -203,7 +203,7 @@ lucas@baseme:~$ cat user.txt
                                   **      ,*,                                   
                                      ** *,                                      
                                                
-HMV8nnJAJAJA    
+************ <-- This is your user flag   
 lucas@baseme:~$ sudo -l 
 Matching Defaults entries for lucas on baseme:
     env_reset, mail_badpass, secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin
@@ -232,7 +232,7 @@ lucas@baseme:~$ sudo /usr/bin/base64 /root/root.txt | /usr/bin/base64 -d
                                   **      ,*,                                   
                                      ** *,                                      
                                                
-HMVFKBS64
+********** <-- This is root flag
 lucas@baseme:~$ 
 
 
