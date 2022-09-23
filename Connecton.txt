@@ -252,6 +252,6 @@ connection
 # ls
 local.txt
 # cat local.txt
-3f491443a2a6aa82bc86a3cda8c39617
+********************************** <-- This is your user flag
 
 
